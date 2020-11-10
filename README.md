@@ -9,10 +9,10 @@
 
 Проекты                    | Цель и задачи | Инструменты
 :------------------------- | :-----------: | :-----------------:
-Left                       | Center        | Pandas, Plotly, 
-align                      | align         | Python, Seaborn,
+Определение оптимального   | Center        | Pandas, Plotly, 
+тарифа                     | align         | Python, Seaborn,
                            |               | API, геолокатор
-                           |
-                           |
-                           |
-                           |
+                          
+                           
+                          
+                          
